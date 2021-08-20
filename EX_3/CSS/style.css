@@ -4,6 +4,12 @@
 	font-family: century Gothic;
 }
 
+img{
+	width: 500px;
+	height: auto;
+	margin: 6px;
+	border: 7px;
+}
 
 
 header{
@@ -44,7 +50,7 @@ ul li.active a{
 .logo img{
 	margin-top: 15px;
 	float: left;
-	width: 200px;
+	width: 100px;
 	height: auto;
 }
 
