@@ -4,18 +4,8 @@
 	font-family: century Gothic;
 }
 
-
-
-img{
-	width: 500px;
-	height: auto;
-	margin: 6px;
-	border: 7px;
-}
-
-
 header{
-	background-image: url(../front.jpg);
+	background-image: url(../2.jpg);
 	height: 100vh;
 	background-size: cover;
 	
